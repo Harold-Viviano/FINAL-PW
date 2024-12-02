@@ -1,0 +1,17 @@
+GET http://localhost:4001/producto
+
+####
+
+POST  http://localhost:4001/producto
+Content-Type: application/json
+
+{       
+        "titulo": "Sony Ult Wear WHULT900N/BZUC - Audífonos Inalámbricos - Negro",
+        "precio": 799.90,
+        "descuento":15,
+        "descontado": 679.90,
+        "imagen": "https://phantom.pe/media/catalog/product/cache/c58c05327f55128aefac5642661cf3d1/a/u/audifonos_sony_ult_wear_wh_ult900n_negro_1_.jpg"
+}
+
+### 
+

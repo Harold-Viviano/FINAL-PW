@@ -1,0 +1,3 @@
+GET http://localhost:4001/carrito
+###
+POST http://localhost:4001/carrito

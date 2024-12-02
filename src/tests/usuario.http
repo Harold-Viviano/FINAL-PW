@@ -1,0 +1,20 @@
+GET http://localhost:4001/usuario
+
+###
+
+POST http://localhost:4001/usuario
+Content-Type: application/json
+{
+        "nombre":  "Juan",
+        "apellido": "Pizarro",
+        "telefono":"900000000"
+        "usuario": "Nose",
+        "contraseña": "123",
+        
+        "direccion": "Sip",
+        "ciudad":"Lima",
+        "telefono":"900000000"
+
+}
+
+ ###   
